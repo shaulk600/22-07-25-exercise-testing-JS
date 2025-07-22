@@ -1,0 +1,7 @@
+.env
+
+vs/
+bin/
+node_moudle/
+
+document/

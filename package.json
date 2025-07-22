@@ -1,0 +1,15 @@
+{
+  "name": "22-07-25-testing-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch hiking-utils/distanceUtils.js",
+    "startTest": "node --watch hiking-utils/distanceUtils.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
